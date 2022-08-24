@@ -1,0 +1,16 @@
+body {
+    /* background-image: url("file:/Earth/templates/earthquake.png"); */
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
